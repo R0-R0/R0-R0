@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development and discord bot development.
 - 🌱 I’m currently learning Java, Javascript, CSS
 - 📫 Email me @robertz4school@gmail.com C:
+- 👨‍💻 I code when I feel like it.
 
 <!---
 R0-R0/R0-R0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
