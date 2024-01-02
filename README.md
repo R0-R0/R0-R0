@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, Javascript, CSS
 - 📫 Email me @robertz4school@gmail.com C:
 - 👨‍💻 I code when I feel like it.
+- ⚒️ Working on open-source discord bot
 
 <!---
 R0-R0/R0-R0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
