@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @R0-R0.
-- 👀 I’m interested in web development and discord bot development.
-- 🌱 I’m currently learning Java, Javascript, CSS
-- 📫 Email me @robertz4school@gmail.com C:
-- 👨‍💻 I code when I feel like it.
-- ⚒️ Working on open-source discord bot
+# THIS PROFILE IS INACTIVE
 
-<!---
-R0-R0/R0-R0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please go follow my other github accounts - [deR0R0](https://github.com/deR0R0)
